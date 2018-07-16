@@ -1,0 +1,14 @@
+{
+  "name": "api-key-auth-workshop",
+  "version": "1.0.0",
+  "description": "API Key Auth with node.js and express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "express": "~4.13.4"
+  }
+}
